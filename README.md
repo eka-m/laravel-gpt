@@ -9,7 +9,7 @@ Introducing LaravelGPT, a tool designed to simplify the integration of OpenAI's 
 You can install the package via composer:
 
 ```bash
-composer require maltekuhr/laravel-gpt
+composer require eka-m/laravel-gpt
 ```
 
 Next you need to configure your OpenAI API Key and Organization ID. You can find both in the [OpenAI Dashboard](https://platform.openai.com/account/org-settings).
